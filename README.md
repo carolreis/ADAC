@@ -17,3 +17,14 @@
 
     Exemplo:
     *localhost:8080*
+
+
+  ---------
+
+Projeto CNPQ
+
+Avaliação Diagnóstica Auxiliada por Computador: Identificação das dificuldades dos alunos dos cursos de engenharia na resolução de problemas com Derivadas
+
+http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/337
+
+  
