@@ -1,0 +1,13 @@
+Cores do sistemas:
+#6c9a9a
+#0A5555
+#24A2A2
+#5DB1B1
+
+#DDD
+#FFF
+#F5F5F5
+
+#000
+
+#FFF
